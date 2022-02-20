@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.ggh h3{
+        color: rgba(145, 129, 129, 0.788);
+        text-transform:uppercase;
+        font-size: 1rem;
+        font-weight: 700;
+}
+
+.ggh h2{
+    color: white;
+    text-transform: capitalize;
+    font-size: 1.3rem;
+}
+.ggh li a{
+    text-transform: capitalize;
+    text-decoration: none;
+    color: white;
+    font-weight: 700;
+}
+
+#leaveIcon{
+    color: rgba(36, 202, 36, 0.884);
+}

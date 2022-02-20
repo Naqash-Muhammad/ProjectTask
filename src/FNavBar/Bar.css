@@ -1,0 +1,25 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+#leaveIcon{
+    color: green !important;
+}
+
+@media(max-width:1200px){
+}
+
+@media(max-width:1050px){
+    
+}
+
+@media(max-width:420px){
+    #BarHide{
+        display: none;
+    }
+    #BarHhow{
+        display: block;
+    }
+}
+
